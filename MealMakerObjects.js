@@ -82,3 +82,6 @@ menu.addDishToCourse("desserts", "Cheesecake", 10);
 
 let customerMeal1 = menu.generateRandomMeal();
 console.log(customerMeal1);
+
+let customerMeal2 = menu.generateRandomMeal();
+console.log(customerMeal2);
